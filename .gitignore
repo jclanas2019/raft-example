@@ -1,0 +1,4 @@
+# En raft_example/.gitignore
+/target
+**/*.rs.bk
+Cargo.lock
